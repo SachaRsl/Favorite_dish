@@ -1,0 +1,53 @@
+body {
+  text-align: center;
+  background-image: url(https://media.istockphoto.com/id/178444274/fr/photo/champ-de-bl%C3%A9-vert.jpg?s=612x612&w=0&k=20&c=9oPzgPizYZJA9mA3VGfZCi3NVmO51g_RyV1E3bME72E=);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+h1 {
+  color: saddlebrown;
+  font-family:cursive;
+}
+h2 {
+  color: rosybrown;
+  font-family:cursive;
+}
+
+.pub {
+  color: rosybrown;
+  font-family:cursive;
+}
+
+.recipe_card {
+  text-align: center;
+  color: black;
+  background-color: whitesmoke;
+  border-radius: 5px;
+  border: 1px solid;
+  width: 60vw;
+  margin: auto;
+  padding: 20px;
+  margin-top: 20px;
+}
+
+img {
+  width: 50vw;
+  border-radius: 5px;
+}
+
+.ingredients {
+  text-align: center;
+  font-family: fantasy;
+
+ }
+
+.etapes {
+  text-align: left;
+  font-family: fantasy;
+ }
+
+ .recettes {
+  color:white;
+  font-family:cursive;
+  font-size: 20px;
+ }
